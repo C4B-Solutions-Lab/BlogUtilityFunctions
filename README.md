@@ -1,2 +1,2 @@
-# BlogUtilityFunctions
-blog's related stuff
+# Dabrowski Software Development [ JavaScript ] 
+# BlogUtilityFunctions (v0.0.1)
