@@ -1,5 +1,5 @@
 # Dabrowski Software Development [ JavaScript ] 
-# JsUtilityFunctions (v0.0.5)
+# BlogUtilityFunctions (v0.0.1)
 
 - NEW:
  - more to come this week
