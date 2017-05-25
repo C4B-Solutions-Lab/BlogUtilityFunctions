@@ -8,6 +8,6 @@
 #
 ## Details:
  - examplary usage can be downloaded with current release of https://dabrowski-software-development.github.io/,<br /> which uses it internally.
- - this library is dependant on JsUtilityFunctions library
+ - this library is dependant on JsUtilityFunctions library (js-utilities-0.0.9.js)
 
-### <strong>UPLOADED 2017-05-25 15:06:00 GMT +01:00</strong>
+### <strong>UPLOADED 2017-05-25 15:10:00 GMT +01:00</strong>
