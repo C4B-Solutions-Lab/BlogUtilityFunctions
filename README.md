@@ -8,6 +8,6 @@
 #
 ## Details:
  - examplary usage can be downloaded with current release of https://software-development-of-better-tomorrow.github.io,<br /> which uses it internally.
- - this library is dependant on JsUtilityFunctions library (js-utilities-1.0.1.js)
+ - this library is dependant on JsUtilityFunctions library (js-utilities-1.0.2.js)
 
 ### <strong>UPLOADED 2017-08-26 15:46:00 GMT +01:00</strong>
