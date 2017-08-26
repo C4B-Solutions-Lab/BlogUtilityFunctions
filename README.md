@@ -1,6 +1,6 @@
 <img src="https://github.com/Dabrowski-Software-Development/BlogUtilityFunctions/blob/master/github_json2sql.png"></img>
 # [ JavaScript ]
-# BlogUtilityFunctions &nbsp;&nbsp;&nbsp;:zero:.:zero:.:eight:&nbsp;[&nbsp;:new:&nbsp;]
+# BlogUtilityFunctions &nbsp;&nbsp;&nbsp;:one:.:zero:.:zero:&nbsp;[&nbsp;:new:&nbsp;]
 #
 #
 # Availability&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock: [ released ]
@@ -10,4 +10,4 @@
  - examplary usage can be downloaded with current release of https://software-development-of-better-tomorrow.github.io,<br /> which uses it internally.
  - this library is dependant on JsUtilityFunctions library (js-utilities-1.0.1.js)
 
-### <strong>UPLOADED 2017-08-26 14:20:00 GMT +01:00</strong>
+### <strong>UPLOADED 2017-08-26 15:45:00 GMT +01:00</strong>
