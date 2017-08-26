@@ -1,5 +1,5 @@
 /*!
- * BlogUtilities JavaScript library v0.0.7
+ * BlogUtilities JavaScript library v0.0.8
  * (c) Dabrowski-Software-Development (https://github.com/dabrowski-software-development/BlogUtilityFunctions)
  * License: MIT (http://www.opensource.org/licenses/mit-license.php)
  */
