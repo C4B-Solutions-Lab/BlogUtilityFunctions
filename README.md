@@ -1,4 +1,3 @@
-<img src="https://github.com/Dabrowski-Software-Development/BlogUtilityFunctions/blob/master/github_json2sql.png"></img>
 # [ JavaScript ]
 # BlogUtilityFunctions &nbsp;&nbsp;&nbsp;:one:.:zero:.:one:&nbsp;[&nbsp;:new:&nbsp;]
 #
